@@ -6,3 +6,6 @@ Eiga = "The Image" (jp)
 
 Thoughts, short pieces, idle musings
 
+Frontend tools for display
+
+
