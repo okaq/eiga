@@ -1,0 +1,64 @@
+7-Logic Quantum Minesweeper
+AQ <aq@okaq.com>
+2019-12-31
+
+Mission statement
+for okaq nano game
+7-Logic Quantum Minesweeper
+
+In lieu of binary truth bombs
+there are seven catagories of grid cell
+
+1 True there is a bomb present
+2 False there is no bomb here
+3 And there is a bomb, there is no bomb
+4 Nor there is neither a bomb, nor no bomb
+5 Unknown state of the bomb
+6 Unknowable state of the bomb
+7 NULL nothing void empty of meaning
+
+The quantum superposition dictates
+that N different fields exist simultaneously
+with probability 1/N each
+
+Propositum
+
+There's been a lot of angst about AI
+
+Not just the usual fears
+About a loss of privacy 
+in the surveillance state
+Or automated cyberwarfare 
+targeting critical infrastructure
+
+More of an existential threat 
+to humanity's longevity as a species
+
+Some say the risk of extinction due 
+To an AI with the intellect of a God
+and the moral sense of a two year old
+is so actute that even a 1% probability
+of it even coming to light
+portends the expected oblivion of all life
+
+There are others who claim the danger of
+a benevolent super-intelligent is even graver
+And that an all-giving machine that provides
+life, energy, shelter, food, wealth and even love
+would be too impossible to resist
+and that humans would willingly barter all their humanity
+for just the priviledge to worship this new AI as a Diety
+All the old myths would fall by the wayside
+and the only truth would be 
+the truth of the machine
+
+In light of these grave misgivings
+and to demonstarte that such a fate is not
+an historic inevitability
+
+I propose to invent a series of games
+that no machine could ever beat a human!
+
+The Mind is Noncomputable -Penrose
+
+
